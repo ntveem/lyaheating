@@ -1,7 +1,6 @@
 # lyaheating
 
-Data for thermal evolution
-==========================
+## Data for thermal evolution
 
 The file heffs.npy is a 5-dimensional matrix, with dimensions of
 n_tks x n_tss x n_tgps x 2 x 4
@@ -23,7 +22,6 @@ The net energy loss efficiency is defined in Eq. (10), and, given a model for th
 
 The dimensionless Wouthuysen-Field coupling efficiency \tilde{salpha}, and the effective color temperature T_{c,eff} are defined in Hirata C., (2006) astro-ph/0507102
 
-Caveats
-=======
+## Caveats
 
 The quantities are computed from the solutions of the Fokker Planck equation, which is not a good description of the diffusion of Lyman-alpha photons at the lowest kinetic temperatures. Hirata (2006) tested the validity of the Fokker Planck equation down to tk = 2 K.
