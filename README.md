@@ -27,4 +27,4 @@ The dimensionless Wouthuysen-Field coupling coefficient \tilde{salpha}, and the 
 
 ## Caveats
 
-The quantities are computed from the solutions of the Fokker Planck equation, which is not a good description of the diffusion of Lyman-alpha photons at the lowest kinetic temperatures. Hirata (2006) tested the validity of the Fokker Planck equation down to tk = 2 K.
+The quantities were computed from the solutions of the Fokker Planck equation, which is not a good description of the diffusion of Lyman-alpha photons at the lowest kinetic temperatures. Hirata (2006) tested the validity of the Fokker Planck equation down to tk = 2 K.
