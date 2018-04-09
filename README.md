@@ -2,7 +2,7 @@
 
 ## Data for thermal evolution
 
-The file heffs.npy is a 5-dimensional matrix, with dimensions of
+The file [heffs.npy](https://github.com/ntveem/lyaheating/blob/master/heffs.npy) is a 5-dimensional matrix, with dimensions of
 n_tks x n_tss x n_tgps x 2 x 4
 
 tks = Kinetic temperatures (K)
