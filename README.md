@@ -6,12 +6,15 @@ The file heffs.npy is a 5-dimensional matrix, with dimensions of
 n_tks x n_tss x n_tgps x 2 x 4
 
 tks = Kinetic temperatures (K)
+
       np.logspace(np.log10(0.1), np.log10(100.0), num=175)
 
 tss = Spin temperatures (K)
+
       np.logspace(np.log10(0.1), np.log10(100.0), num=175)
 
 tgps = Gunn-Peterson optical depths
+
        np.logspace(4.0, 7.0)
 
 The indices within the last (2 x 4) submatrix stand for (continuum, injected) photons, and (net energy loss efficiency, energy loss efficiency to spins, \tilde{salpha}, effective color temperature (K)).
