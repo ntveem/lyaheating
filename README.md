@@ -23,7 +23,7 @@ In practice, one only needs the net energy loss efficiency, \tilde{salpha} and e
 
 The net energy loss efficiency is defined in Eq. (10), and, given a model for the continuum and injected Lyman-alpha fluxes, should be used in the temperature evolution as given by Eq. (18) of our paper at [http://arxiv.org/abs/1804.02406](http://arxiv.org/abs/1804.02406)
 
-The dimensionless Wouthuysen-Field coupling coefficient \tilde{salpha}, and the effective color temperature T_{c,eff} are defined in Hirata C., (2006) astro-ph/0507102
+The dimensionless Wouthuysen-Field coupling coefficient \tilde{salpha}, and the effective color temperature T_{c,eff} are defined in Hirata C., (2006) [astro-ph/0507102](https://arxiv.org/abs/astro-ph/0507102)
 
 ## Caveats
 
