@@ -25,6 +25,10 @@ The net energy loss efficiency is defined in Eq. (10), and, given a model for th
 
 The dimensionless Wouthuysen-Field coupling coefficient \tilde{salpha}, and the effective color temperature T_{c,eff} are defined in Hirata C., (2006) [astro-ph/0507102](https://arxiv.org/abs/astro-ph/0507102)
 
+## Additional data
+
+The file toy_fluxes.dat contains tabulated values of the continuum and injected Lyman-alpha fluxes vs redshift for the toy star formation model described in our paper at [http://arxiv.org/abs/1804.02406](http://arxiv.org/abs/1804.02406) (fluxes are in units of J_0 as given in our Eq.(6)). The model used to compute them is only a toy model, and the high-redshift star formation history is not known, so these values should only be used for illustrative purposes.
+
 ## Caveats
 
 The quantities were computed from the solutions of the Fokker Planck equation, which is not a good description of the diffusion of Lyman-alpha photons at the lowest kinetic temperatures. Hirata (2006) tested the validity of the Fokker Planck equation down to tk = 2 K.
